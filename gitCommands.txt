@@ -1,0 +1,16 @@
+git init => initialize the git in our project folder
+git status => to check the status of the file
+git add [file name] => add that file to stage and ready for commit 
+git add . => it add all the files in the project to be staged
+git commit -m '[message]' => commit the code/ creates the version
+
+
+git log =>to see all the commits
+git reset --hard logHash => to rollback to the previous version
+
+
+
+branching
+soft reset
+difference between resets
+gitHub
